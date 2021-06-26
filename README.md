@@ -21,7 +21,7 @@
 
   [x] Não é permitido cadastrar elogio para usuários inválidos.
 
-  [] O usuário precisa estar autenticado na aplicação.
+  [x] O usuário precisa estar autenticado na aplicação.
 
   # REGRA DE NEGÓCIO
 
